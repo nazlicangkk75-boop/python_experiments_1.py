@@ -1,2 +1,3 @@
-# python_experiments_1.py
+# python_experiments.PY
+
 "python ders örnekleri"
